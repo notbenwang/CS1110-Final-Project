@@ -5,6 +5,13 @@ This project was created in Python and uses a Python library developed by Lucas 
 
 If for some reason you would ever want to run the game, you would need the game.py, gamebox.py, the images folder, and any other dependencies needed to get the python files to run in a directory, and just need to run the game.py file.
 
-If you're curious, I am trying to redevelop this game with more, let's say "sustainable" software practices, and you can find that page here: https://github.com/notbenwang/Project-Z
+![Start Screen](images/start_screen.png?raw=true)
 
-![alt text](images/start_screen.png?raw=true)
+![Gameplay](images/gameplay1.PNG?raw=true)
+
+![End Screen](images/gameplay2.PNG?raw=true)
+
+
+If you're curious, I am trying to redevelop this game with more "sustainable" software practices, and you can find that page here: https://github.com/notbenwang/Project-Z
+
+
