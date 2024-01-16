@@ -1,4 +1,4 @@
-# CS1110-Final-Project
+# CS1110 Final Project | "Night of the Poorly Made Zombies" 
 
 ## Motivation
 The purpose of this project was to serve as a final project for the Intro CS course (CS 1110), and was completed in partnership with Thomas Nguyen. 
